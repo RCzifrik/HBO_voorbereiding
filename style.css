@@ -1,0 +1,22 @@
+.flex-container{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+
+.img1 {
+  margin-top: 120px;
+  width: 400px;
+  height: 450px;
+}
+
+.nav-item {
+  transition: border 0.6s linear;
+}
+
+.nav-item:hover {
+  border: 1px solid white;
+}
+
